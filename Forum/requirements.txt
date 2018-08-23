@@ -1,0 +1,4 @@
+django==2.0.6
+django-bootstrap3==10.0.1
+misaka==2.1.0
+django-braces==1.13.0
